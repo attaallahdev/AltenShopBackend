@@ -12,7 +12,7 @@ Ce document décrit les endpoints de l'API RESTful pour la gestion des produits,
 - **Requête**: 
 ```json
 ====================================================
-            INFORMATIONS POUR LE DÉVELOPPEMENT                 =
+ ##           INFORMATIONS POUR LE DÉVELOPPEMENT                 =
  ===================================================================
 
  ---------------------------------
